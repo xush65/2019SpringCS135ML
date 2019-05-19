@@ -1,0 +1,4 @@
+Name: Sheng Xu
+Hours: 8
+Collabrator: None.
+Other Resources: Reading piazza post for surprise loading data.
