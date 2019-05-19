@@ -1,0 +1,3 @@
+Name: Sheng Xu
+Hours: 8
+Collabrator: Hints on getting feature names on polymomial fitting from Minh.

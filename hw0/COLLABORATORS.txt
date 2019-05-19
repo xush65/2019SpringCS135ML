@@ -1,0 +1,3 @@
+Name: Sheng Xu
+Hours: 4 (2 for Each Questions)
+Co: Minh D. Nguyen on random_state(use of copy functions).
